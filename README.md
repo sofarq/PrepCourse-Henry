@@ -1,0 +1,1 @@
+Este es un proyecto de prueba de cómo crear un repositorio vacío en Github y crear un archivo de modo local.
